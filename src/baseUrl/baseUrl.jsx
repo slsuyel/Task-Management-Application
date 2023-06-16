@@ -1,0 +1,1 @@
+export const baseUrl = 'https://task-18-6-23-server.vercel.app';
